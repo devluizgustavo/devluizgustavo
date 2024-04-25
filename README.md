@@ -1,7 +1,15 @@
-### Hi there 👋
+<h1 align="center">Seja bem vindo!</h1>
 
-<!--
-**devluizgustavo/devluizgustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+👋 Olá, fico muito feliz em te ver aqui. Meu nome é Luiz, tenho 21 anos, atualmente cursando Análise e Desenvolvimento de Sistemas, com foco em aprofundar meus conhecimentos em NodeJs e React a fim de me tornar um desenvolvedor back-end.
+
+- 📚 Atualmente estou aprendendo: NodeJs, Express, React, Redux;
+- 👏 Estou disponível para colaborar em projetos de código aberto;
+- 👨 Disponível para vagas back-end/front-end;
+- 💬 Sinta-se a vontade para me perguntar o que quiser;
+- 😄 Pronomes: Ele/Dele;
+- 🏃 Gosto de praticar esportes;
+- 📞 Clique aqui para entrar em contato comigo.
 
 Here are some ideas to get you started:
 
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
