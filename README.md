@@ -8,6 +8,7 @@
 - 💬 Sinta-se a vontade para me perguntar o que quiser;
 - 😄 Pronomes: Ele/Dele;
 - 🏃 Gosto de praticar esportes;
+- ☕ Relacionamento sério com o café;
 - 📞 [Clique Aqui](https://wa.me/5511942154819?text=Ol%C3%A1,%20tudo%20bem?) para entrar em contato comigo.
 
 <h1 align="center">Tecnologias</h1>
