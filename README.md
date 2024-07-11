@@ -2,11 +2,10 @@
 
 👋 Olá, fico muito feliz em te ver aqui. Meu nome é Luiz, tenho 21 anos, atualmente cursando Análise e Desenvolvimento de Sistemas, com foco em aprofundar meus conhecimentos em NodeJs e React a fim de me tornar um desenvolvedor web.
 
-- 📚 Atualmente estou aprendendo: NodeJs, Express, React, Redux;
+- 📚 Atualmente estou aprendendo: React, Redux;
 - 👏 Estou disponível para colaborar em projetos de código aberto;
 - 👨 Disponível para vagas back-end/front-end;
 - 💬 Sinta-se a vontade para me perguntar o que quiser;
-- 😄 Pronomes: Ele/Dele;
 - 🏃 Gosto de praticar esportes;
 - ☕ Relacionamento sério com o café;
 - 📞 [Clique Aqui](https://wa.me/5511942154819?text=Ol%C3%A1,%20tudo%20bem?) para entrar em contato comigo.
