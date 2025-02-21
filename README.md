@@ -19,6 +19,7 @@
   <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=css">
   <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=nodejs">
   <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=c">
+  <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=cs">
   <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=mysql">
   <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=mongodb">
   <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=express">
