@@ -1,8 +1,8 @@
 <h1 align="center">Seja bem vindo!</h1>
 
-👋 Olá, fico muito feliz em te ver aqui. Meu nome é Luiz, tenho 22 anos, atualmente cursando Análise e Desenvolvimento de Sistemas, com foco em aprofundar meus conhecimentos em NodeJs e React a fim de me tornar um desenvolvedor web.
+👋 Olá, fico muito feliz em te ver aqui. Meu nome é Luiz, tenho 22 anos, atualmente cursando Análise e Desenvolvimento de Sistemas, com foco em aprofundar meus conhecimentos em back-end e front-end a fim de me tornar um desenvolvedor full-stack.
 
-- 📚 Atualmente estou aprendendo: React, Redux;
+- 📚 Atualmente estou aprendendo: Typescript, C#;
 - 👏 Estou disponível para colaborar em projetos de código aberto;
 - 👨 Disponível para vagas back-end/front-end;
 - 💬 Sinta-se a vontade para me perguntar o que quiser;
