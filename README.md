@@ -1,53 +1,35 @@
-<h1 align="center">Seja bem vindo!</h1>
+# Luiz Gustavo Bonke
 
-👋 Olá, fico muito feliz em te ver aqui. Meu nome é Luiz, tenho 22 anos, atualmente cursando Análise e Desenvolvimento de Sistemas, com foco em aprofundar meus conhecimentos em back-end e front-end a fim de me tornar um desenvolvedor full-stack.
+**Professor de Programação e Robótica | [CTRL+Play](https://www.google.com/aclk?sa=L&ai=DChsSEwjZrJm8g9mPAxUMRUgAHb8qCZsYACICCAEQABoCY2U&co=1&ase=2&gclid=CjwKCAjwz5nGBhBBEiwA-W6XRMsTLqKkamDKQm-8Z-pCgTP2cfgY7yt3NyKW1LNKu8XsOokjqzrc2hoCkUsQAvD_BwE&cid=CAASb-RotHpKw_Llc_sBxh3DM9GRdyfbZwjfVo4y5VGuhHVuH7KuIOIjNdiUCM7VeqCKBAq7iimMu5CrlWM-0zl_K-qcYRxT40UhPCTHzmFRgffR1rGycRjpkQUkwEipBYKrGQaCj1ZQEu7hdqwatgmYow&cce=2&category=acrcp_v1_32&sig=AOD64_1-EgTkFGzyxknWRgmZLwUM3guj1A&q&nis=4&adurl&ved=2ahUKEwjm9JK8g9mPAxVur5UCHSkyPB0Q0Qx6BAgVEAE)**
 
-- 📚 Atualmente estou aprendendo: Typescript, C#;
-- 👏 Estou disponível para colaborar em projetos de código aberto;
-- 👨 Disponível para vagas back-end/front-end;
-- 💬 Sinta-se a vontade para me perguntar o que quiser;
-- 🏃 Gosto de praticar esportes;
-- ☕ Relacionamento sério com o café;
-- 📞 [Clique Aqui](https://wa.me/5511942154819?text=Ol%C3%A1,%20tudo%20bem?) para entrar em contato comigo.
+Antes de entrar na área de TI, já fui **repositor de mercado, auxiliar de produção, porteiro e manutenção e reparo de hardware**.  
+Em 2019, comecei a trabalhar por conta própria atendendo a domicílio — fazia reparos, limpeza, formatação e afins em computadores/notebooks.  
 
-<h1 align="center">Tecnologias</h1>
+Em 2022 comecei a ajuntar dinheiro para dar um passo maior na minha carreira. Em 2023 consegui ingressar na faculdade em análise e desenvolvimento de sistemas. 
+Agora no término da minha faculdade, conquistei minha primeira vaga como professor e, desde então, venho desenvolvendo soluções para me tornar um programador capaz de contribuir com soluções para o mundo real. 🚀  
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=js">
-  <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=typescript">
-  <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=html">
-  <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=css">
-  <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=nodejs">
-  <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=c">
-  <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=cs">
-  <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=mysql">
-  <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=mongodb">
-  <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=express">
-  <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=react">
-  <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=git">
-  <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=linux">
-  <img align="center" alt="Luiz-Js" height="45" width="55" src="https://skillicons.dev/icons?i=visualstudio">
-</div>
-
-<h1 align="center">Estatísticas</h1>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devluizgustavo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas Luiz Gustavo" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluizgustavo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-<br>
-<br>
-
-<p align="center">Você também me encontra em:</p>
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/luiz-gustavo-02a38627b/" target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:luizgustavobonke@gmail.com" target=_blank><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/luizgustavobnk10/" target=_blank><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
+## Projetos Relevantes
 
+### 🍕 [PedePizza](https://github.com/devluizgustavo/API-Pizzaria)
+API RESTful desenvolvida em Node.js + Express, com Sequelize (MySQL) para persistência de dados, autenticação JWT e CRUD completo de clientes, pedidos, pizzas e bebidas. Inclui integração com banco de dados, controle de estoque, atualização de status de pedidos e rotas protegidas via middleware..
 
+**Stack:** Node.js, Sequelize, Express  
+**Papel:** Desenvolvedor Back-End  
 
+### ❄️ [LC Refrigeração - Site](https://lcrefrigeracoesltda.com.br/) | [LC Refrigeração - GitHub](https://github.com/devluizgustavo/site-lc-refrigeracao)  
+Landing Page desenvolvida em React com deploy no Netlify. Apresenta os serviços de conserto de eletrodomésticos da empresa, informações de contato e diferenciais do cliente, oferece uma navegação simples, responsiva e eficiente..
 
+**Stack:** React, TypeScript, Node.js
+**Papel:** Desenvolvedor Frontend
 
+## 🎧 Fora do código
+- 🎮 Fã de Jogos Retrô, Mario e Doom  
+- 🪄 Fã da franquia Harry Potter
+- ☕ Adoro apreciar bons cafés 
+- 🚲 Pratico esportes na medida do possível.
