@@ -2,7 +2,7 @@
 
 **Professor de Programação e Robótica | [CTRL+Play](https://www.google.com/aclk?sa=L&ai=DChsSEwjZrJm8g9mPAxUMRUgAHb8qCZsYACICCAEQABoCY2U&co=1&ase=2&gclid=CjwKCAjwz5nGBhBBEiwA-W6XRMsTLqKkamDKQm-8Z-pCgTP2cfgY7yt3NyKW1LNKu8XsOokjqzrc2hoCkUsQAvD_BwE&cid=CAASb-RotHpKw_Llc_sBxh3DM9GRdyfbZwjfVo4y5VGuhHVuH7KuIOIjNdiUCM7VeqCKBAq7iimMu5CrlWM-0zl_K-qcYRxT40UhPCTHzmFRgffR1rGycRjpkQUkwEipBYKrGQaCj1ZQEu7hdqwatgmYow&cce=2&category=acrcp_v1_32&sig=AOD64_1-EgTkFGzyxknWRgmZLwUM3guj1A&q&nis=4&adurl&ved=2ahUKEwjm9JK8g9mPAxVur5UCHSkyPB0Q0Qx6BAgVEAE)**
 
-Antes de entrar na área de TI, já fui **repositor de mercado, auxiliar de produção, porteiro e manutenção e reparo de hardware**.  
+Antes de entrar na área de TI, já fui **repositor de mercado, auxiliar de produção e porteiro**.  
 Em 2019, comecei a trabalhar por conta própria atendendo a domicílio — fazia reparos, limpeza, formatação e afins em computadores/notebooks.  
 
 Em 2022 comecei a ajuntar dinheiro para dar um passo maior na minha carreira. Em 2023 consegui ingressar na faculdade em análise e desenvolvimento de sistemas. 
