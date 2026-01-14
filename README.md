@@ -6,7 +6,7 @@ Antes de entrar na área de TI, já fui **repositor de mercado, auxiliar de prod
 Em 2019, comecei a trabalhar por conta própria atendendo a domicílio — fazia reparos, limpeza, formatação e afins em computadores/notebooks.  
 
 Em 2022 comecei a ajuntar dinheiro para dar um passo maior na minha carreira. Em 2023 consegui ingressar na faculdade em análise e desenvolvimento de sistemas. 
-Agora no término da minha faculdade, conquistei minha primeira vaga como professor e, desde então, venho desenvolvendo soluções para me tornar um programador capaz de contribuir com soluções para o mundo real. 🚀  
+Conquistei minha primeira vaga como professor e, desde então, venho desenvolvendo soluções para me tornar um programador capaz de contribuir com soluções para o mundo real. 🚀  
 
 <div>
   <a href="https://www.linkedin.com/in/luiz-gustavo-02a38627b/" target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
